@@ -1,3 +1,5 @@
+require 'yard'
+
 module StateMachine
   module YARD
     module Handlers
